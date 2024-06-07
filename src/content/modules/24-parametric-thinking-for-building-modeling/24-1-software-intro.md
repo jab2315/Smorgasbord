@@ -1,4 +1,4 @@
-Intro
+# Intro
 
 The purpose of this sequence is to think not only about how you can use Revit, or BIM, within a computational design workflow but also about how you can plan your workflow in a way that leverages computational thinking to augment building constructability. 
 
@@ -8,7 +8,7 @@ If we accept the fact that multiple different applications are required for an a
 
 [insert diagram of old vs improved workflow]
 
-What is BIM?
+## What is BIM?
 BIM stands for Building Information Modeling. Throughout this sequence, we will further explore how BIM is a powerful tool not only for architectural design but also for development, construction, and building operations. It is important to note that BIM is by no means a one-size-fits-all approach to a design and construction project. If you were to try to capture everything that BIM can do on a project, not only would it take a tremendous amount of time and resources, but it would also require the input of disciplines ranging from real estate developers to engineers to building operators to contractors to subcontractors, and so on. At the outset of a project, it is important for the stakeholders involved to define the BIM goals that are critical to project success.
 
 Also, most people assume BIM means Revit. This is essentially the same thing as calling a tissue a Kleenex or a chicken nugget a McNugget (do people eat those anymore?). Revit is  a BIM platform. However, not all BIM is Revit, but Revit is the most popular BIM platform for architects. 
@@ -16,7 +16,7 @@ Also, most people assume BIM means Revit. This is essentially the same thing as 
 BIM is many things, but the capability we will leverage most for this class is its ability to directly associate essentially any type or amount of data with geometry. We will use computation to program that data as an input, automatically associating it with geometry. Then, we will leverage it for endless possibilities as an output as we extract it for whatever purpose we require.
 
 
-What is Rethinking BIM?
+## What is Rethinking BIM?
 For the purposes of Rethinking BIM, we will focus on a few selected data-driven workflows. We will approach BIM from an architect's standpoint, with an awareness of what is important for both our client and or contractor.
 
 The important thing to take away from this sequence is that if you merge data and geometry, you can unlock a world of possibilities. The ultimate goal is for you to be able to define what data is important for YOUR project, develop a clear strategy to leverage that data, and accurately execute that strategy to deliver a successful project. 
@@ -25,7 +25,7 @@ This is not BIM 101 or Intro to Revit.
 
 Rethinking BIM encourages a project-wide methodology of analytical thinking and data-driven design, leveraging computation as a tool to link BIM into a seamless workflow.
 
-Preparing for this Sequence
+## Preparing for this Sequence
 You should know the basics of both Grasshopper and Revit for this class. If you don’t know the basics of Grasshopper, you can find an introduction on the Smorgasbord here.
 
 There are many resources for learning Revit. This sequence, which I recorded for GSAPP, will teach you the basics of Revit 2023 and give you the knowledge you need for this class.
